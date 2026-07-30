@@ -1,9 +1,9 @@
 {
-  "tag_name": "v1.8.1",
+  "tag_name": "1.8.2",
   "assets": [
     {
-      "name": "Setup-SistemaGEM-v1.8.1.exe",
-      "browser_download_url": "https://github.com/neddles01/SistemaGEM-Releases/releases/download/v1.8.1/Setup-SistemaGEM-v1.8.1.exe"
+      "name": "Setup-SistemaGEM-v1.8.2.exe",
+      "browser_download_url": "https://github.com/neddles01/SistemaGEM-Releases/releases/download/1.8.2/Setup-SistemaGEM-v1.8.2.exe"
     }
   ]
 }
