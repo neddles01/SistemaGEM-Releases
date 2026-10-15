@@ -1,25 +1,28 @@
 # neddlesSY — releases
 
-Versão atual: **1.8.10**.
+Versão atual: **1.8.11**.
 
-[Notas e instaladores da 1.8.10](https://github.com/neddles01/SistemaGEM-Releases/releases/tag/1.8.10).
+[Notas completas e instaladores da 1.8.11](https://github.com/neddles01/SistemaGEM-Releases/releases/tag/1.8.11).
 
-Use `Setup-neddlesSY-v1.8.10.exe` para instalar ou atualizar sobre a versão
-existente. O asset `Setup-SistemaGEM-v1.8.10.exe` é uma cópia idêntica, mantida
-para o auto-update de clientes antigos. Os hashes estão em `SHA256SUMS.txt`.
-Não precisa desinstalar para atualizar.
+Use `Setup-neddlesSY-v1.8.11.exe` para instalar ou atualizar a edição normal
+com IA. Não precisa desinstalar. O arquivo `Setup-SistemaGEM-v1.8.11.exe` é
+idêntico e mantém compatibilidade com atualizadores antigos. Os hashes estão
+em `SHA256SUMS.txt`.
 
-Patch de pausas: confirmação de buffs mais ágil, retomada sem espera extra
-quando o ícone confirma o efeito e redução de pausas duplicadas no ataque
-e na reposição. Movimento orgânico, cliques sustentados e proteção da bolha
-mantidos. Seus perfis e calibrações são preservados.
+Esta versão mantém o ataque por mais tempo no alvo confirmado, com até dez
+cliques a cada 0,25 s, revisa a troca F1/F2 e corrige a aplicação do range.
+Histórico recente de contatos ajuda a ordenar a busca sem abandonar outras
+áreas. Movimento orgânico, prioridade de poções/bolha/buffs, morte e reposição
+preservados, assim como perfis, calibração e autenticação.
 
-Mantém os ajustes da 1.8.9 (antecipação visual só na bolha do Mago, ~8% de
-margem; demais buffs pelo timer e opção manual de 10 s) e a correção sem
-WMIC da 1.8.8. Autenticação/HWID não foram alterados. A futura abordagem de
-visão e ataque em paralelo não faz parte desta versão.
+O modelo continua o mesmo. A visão paralela experimental permanece desativada;
+novos modelos e otimizações para inferências muito lentas ficam para outra fase.
+Não há promessa de percentual fixo de DPS ou ganho em todo hardware.
 
-Este repositório contém somente a distribuição e os metadados de atualização;
-não recebe configurações, calibrações, logs ou credenciais de usuários.
+A edição Low Engine continua independente e exige seu instalador específico;
+esta atualização normal não a substitui automaticamente.
+
+Este repositório contém somente distribuição e metadados de atualização.
+Não recebe configurações, calibrações, logs ou credenciais de usuários.
 
 Histórico: distribuição iniciada na versão 1.5.3.
