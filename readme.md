@@ -1,28 +1,28 @@
-# neddlesSY — releases
+# neddlesSY â€” releases
 
-Versão atual: **1.8.11**.
+VersÃ£o atual: **1.8.12**.
 
-[Notas completas e instaladores da 1.8.11](https://github.com/neddles01/SistemaGEM-Releases/releases/tag/1.8.11).
+[Notas completas e instaladores da 1.8.12](https://github.com/neddles01/SistemaGEM-Releases/releases/tag/1.8.12).
 
-Use `Setup-neddlesSY-v1.8.11.exe` para instalar ou atualizar a edição normal
-com IA. Não precisa desinstalar. O arquivo `Setup-SistemaGEM-v1.8.11.exe` é
-idêntico e mantém compatibilidade com atualizadores antigos. Os hashes estão
-em `SHA256SUMS.txt`.
+Use `Setup-neddlesSY-v1.8.12.exe` para instalar ou atualizar a ediÃ§Ã£o normal
+com IA. NÃ£o precisa desinstalar. `Setup-SistemaGEM-v1.8.12.exe` Ã© uma cÃ³pia
+idÃªntica para os atualizadores antigos. Confira os hashes em `SHA256SUMS.txt`.
 
-Esta versão mantém o ataque por mais tempo no alvo confirmado, com até dez
-cliques a cada 0,25 s, revisa a troca F1/F2 e corrige a aplicação do range.
-Histórico recente de contatos ajuda a ordenar a busca sem abandonar outras
-áreas. Movimento orgânico, prioridade de poções/bolha/buffs, morte e reposição
-preservados, assim como perfis, calibração e autenticação.
+Esta versÃ£o acrescenta confirmaÃ§Ã£o visual local e cursor vermelho antes do
+primeiro clique quando a anÃ¡lise da IA consome o tempo disponÃ­vel. MantÃ©m o
+caminho rÃ¡pido, os dez cliques a cada 0,25 s, F1/F2 e a prioridade de poÃ§Ãµes,
+bolha, buffs, morte e reposiÃ§Ã£o. Amplia os logs das tentativas e rejeiÃ§Ãµes.
 
-O modelo continua o mesmo. A visão paralela experimental permanece desativada;
-novos modelos e otimizações para inferências muito lentas ficam para outra fase.
-Não há promessa de percentual fixo de DPS ou ganho em todo hardware.
+O funcionamento geral foi testado no PC de referÃªncia pelo caminho rÃ¡pido.
+A nova confirmaÃ§Ã£o local ainda nÃ£o teve aceite positivo registrado no jogo;
+sua eficÃ¡cia nas mÃ¡quinas afetadas continua em verificaÃ§Ã£o pelos logs.
+NÃ£o hÃ¡ promessa de ganho fixo de DPS ou desempenho em todo hardware.
+O modelo permanece o mesmo e a visÃ£o paralela experimental continua desativada.
 
-A edição Low Engine continua independente e exige seu instalador específico;
-esta atualização normal não a substitui automaticamente.
+A ediÃ§Ã£o Low Engine continua independente e exige seu instalador especÃ­fico;
+esta atualizaÃ§Ã£o normal nÃ£o a substitui automaticamente.
 
-Este repositório contém somente distribuição e metadados de atualização.
-Não recebe configurações, calibrações, logs ou credenciais de usuários.
+Este repositÃ³rio contÃ©m somente distribuiÃ§Ã£o e metadados de atualizaÃ§Ã£o.
+NÃ£o recebe configuraÃ§Ãµes, calibraÃ§Ãµes, logs ou credenciais de usuÃ¡rios.
 
-Histórico: distribuição iniciada na versão 1.5.3.
+HistÃ³rico: distribuiÃ§Ã£o iniciada na versÃ£o 1.5.3.
