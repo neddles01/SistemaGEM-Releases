@@ -1,28 +1,22 @@
 # neddlesSY — releases
 
-Versão atual: **1.8.13**.
+Versão atual: **1.8.14**.
 
-[Notas completas e instaladores da 1.8.13](https://github.com/neddles01/SistemaGEM-Releases/releases/tag/1.8.13).
+[Notas e instaladores da 1.8.14](https://github.com/neddles01/SistemaGEM-Releases/releases/tag/1.8.14).
 
-Use `Setup-neddlesSY-v1.8.13.exe` para instalar ou atualizar a edição normal
-com IA. Não precisa desinstalar. `Setup-SistemaGEM-v1.8.13.exe` é uma cópia
-idêntica para os atualizadores antigos. Confira os hashes em `SHA256SUMS.txt`.
+Use `Setup-neddlesSY-v1.8.14.exe` para instalar ou atualizar a edição com IA,
+sem desinstalar. `Setup-SistemaGEM-v1.8.14.exe` é uma cópia idêntica para
+atualizadores antigos. Confira `SHA256SUMS.txt`.
 
-A IA sugere onde procurar e o cursor vermelho atual confirma o contato para
-iniciar até dez cliques a cada 0,25 s, sem comparar a aparência entre imagens.
-Uma nova confirmação permite mais uma rajada no contato; depois volta à IA.
-Mantém F1/F2 e a prioridade de poções, bolha, buffs, morte e reposição.
+Esta atualização distribui as tentativas entre os alvos após rajadas de dois
+segundos e acrescenta cliques durante a busca, mantendo a prioridade de poções,
+bolha, buffs, morte e reposição. Movimentos e intervalos orgânicos preservados.
+Testes automáticos e auditoria do pacote aprovados; resultado nas diferentes
+máquinas e cadência real continuam em acompanhamento pelos logs.
 
-Os testes automáticos e a auditoria do pacote foram aprovados. A eficácia nas
-máquinas afetadas e o ganho no jogo continuam em verificação pelos logs.
-Esta versão mantém diferenças em relação à 1.8.10: exige cursor vermelho e
-conserva as rajadas e a continuidade. O modelo de IA permanece o mesmo,
-sem exigência de GPU dedicada, com visão paralela experimental desativada.
-
-A edição Low Engine continua independente e exige seu instalador específico;
-esta atualização normal não a substitui automaticamente.
+A edição principal usa as texturas normais: não precisa de mobs rosas nem
+alterar o HUD. Funciona em CPU sem exigir GPU dedicada. A Low Engine é uma
+alternativa independente para PCs mais limitados, com instalador e canal próprios.
 
 Este repositório contém somente distribuição e metadados de atualização.
 Não recebe configurações, calibrações, logs ou credenciais de usuários.
-
-Histórico: distribuição iniciada na versão 1.5.3.
