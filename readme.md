@@ -1,22 +1,24 @@
 # neddlesSY — releases
 
-Versão atual: **1.8.14**.
+Versão atual: **1.8.15**.
 
-[Notas e instaladores da 1.8.14](https://github.com/neddles01/SistemaGEM-Releases/releases/tag/1.8.14).
+[Notas e instaladores da 1.8.15](https://github.com/neddles01/SistemaGEM-Releases/releases/tag/1.8.15).
 
-Use `Setup-neddlesSY-v1.8.14.exe` para instalar ou atualizar a edição com IA,
-sem desinstalar. `Setup-SistemaGEM-v1.8.14.exe` é uma cópia idêntica para
+Use `Setup-neddlesSY-v1.8.15.exe` para instalar ou atualizar a edição com IA,
+sem desinstalar. `Setup-SistemaGEM-v1.8.15.exe` é uma cópia idêntica para
 atualizadores antigos. Confira `SHA256SUMS.txt`.
 
-Esta atualização distribui as tentativas entre os alvos após rajadas de dois
-segundos e acrescenta cliques durante a busca, mantendo a prioridade de poções,
-bolha, buffs, morte e reposição. Movimentos e intervalos orgânicos preservados.
-Testes automáticos e auditoria do pacote aprovados; resultado nas diferentes
-máquinas e cadência real continuam em acompanhamento pelos logs.
+Esta atualização melhora a estabilidade do código da máquina diante de falhas
+temporárias de leitura e corrige uma dependência da conexão segura no pacote.
+Mantém o cálculo dos códigos de máquinas que já funcionavam normalmente e a
+validação online da licença. Não altera prazo, regras ou cadastro da licença.
 
-A edição principal usa as texturas normais: não precisa de mobs rosas nem
-alterar o HUD. Funciona em CPU sem exigir GPU dedicada. A Low Engine é uma
-alternativa independente para PCs mais limitados, com instalador e canal próprios.
+Ataque, movimentação orgânica e prioridade de poções, bolha, buffs, morte e
+reposição permanecem iguais. A principal usa texturas normais, sem mobs rosas
+nem HUD modificado, e funciona em CPU sem exigir GPU dedicada.
+
+A Low Engine continua na1.8.12, com instalador e canal próprios. Esta atualização
+da edição principal não substitui nem altera a Low.
 
 Este repositório contém somente distribuição e metadados de atualização.
 Não recebe configurações, calibrações, logs ou credenciais de usuários.
