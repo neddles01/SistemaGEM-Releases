@@ -1,11 +1,11 @@
 {
-  "tag_name": "1.8.15",
+  "tag_name": "1.8.16",
   "assets": [
     {
-      "name": "Setup-SistemaGEM-v1.8.15.exe",
-      "browser_download_url": "https://github.com/neddles01/SistemaGEM-Releases/releases/download/1.8.15/Setup-SistemaGEM-v1.8.15.exe",
-      "size": 307524629,
-      "digest": "sha256:8b879564c10967d39d998673df0afb5f0348b85d970c8ef3d222a6c06b2fac8e"
+      "name": "Setup-SistemaGEM-v1.8.16.exe",
+      "browser_download_url": "https://github.com/neddles01/SistemaGEM-Releases/releases/download/1.8.16/Setup-SistemaGEM-v1.8.16.exe",
+      "size": 307552529,
+      "digest": "sha256:c9152677d7cd28b877e22983eec2e4d53c24bbb2c6ccb2feb54959091f584728"
     }
   ]
 }

@@ -1,24 +1,24 @@
 # neddlesSY — releases
 
-Versão atual: **1.8.15**.
+Versão atual: **1.8.16**.
 
-[Notas e instaladores da 1.8.15](https://github.com/neddles01/SistemaGEM-Releases/releases/tag/1.8.15).
+[Notas e instaladores da 1.8.16](https://github.com/neddles01/SistemaGEM-Releases/releases/tag/1.8.16).
 
-Use `Setup-neddlesSY-v1.8.15.exe` para instalar ou atualizar a edição com IA,
-sem desinstalar. `Setup-SistemaGEM-v1.8.15.exe` é uma cópia idêntica para
-atualizadores antigos. Confira `SHA256SUMS.txt`.
+Use `Setup-neddlesSY-v1.8.16.exe` para instalar ou atualizar a edição principal,
+sem desinstalar. `Setup-SistemaGEM-v1.8.16.exe` é o alias idêntico para atualizadores
+antigos. Confira `SHA256SUMS.txt`.
 
-Esta atualização melhora a estabilidade do código da máquina diante de falhas
-temporárias de leitura e corrige uma dependência da conexão segura no pacote.
-Mantém o cálculo dos códigos de máquinas que já funcionavam normalmente e a
-validação online da licença. Não altera prazo, regras ou cadastro da licença.
+Esta versão reconhece os HUDs padrão e de Halloween do BPT, ajusta a leitura de
+HP/RES/mana no evento e confere a calibração ao iniciar. Preserva ataque, movimentos
+orgânicos e prioridade de poções, bolha, buffs, reposição e morte/Cidade.
 
-Ataque, movimentação orgânica e prioridade de poções, bolha, buffs, morte e
-reposição permanecem iguais. A principal usa texturas normais, sem mobs rosas
-nem HUD modificado, e funciona em CPU sem exigir GPU dedicada.
+A principal usa as texturas normais dos monstros, sem mobs rosas ou alteração de
+HUD/arquivos do jogo, e funciona em CPU sem exigir GPU dedicada. A Low Engine
+permanece na1.8.12, com instalador e canal próprios.
 
-A Low Engine continua na1.8.12, com instalador e canal próprios. Esta atualização
-da edição principal não substitui nem altera a Low.
+Teste automatizado e auditoria do pacote aprovados; comportamento real em jogo
+continua acompanhado pelos logs. Atualize pelo atalho como administrador e
+confira1.8.16 no rodapé. Deixe o jogo visível na primeira calibração.
 
 Este repositório contém somente distribuição e metadados de atualização.
 Não recebe configurações, calibrações, logs ou credenciais de usuários.
